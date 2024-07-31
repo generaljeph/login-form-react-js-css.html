@@ -29,7 +29,7 @@ function Login() {
     return(
         
         <div className="form">
-            <label>userName</label>
+            <label>userame</label>
             <input type="text" 
             placeholder="enter ur email"
             value={email} 
